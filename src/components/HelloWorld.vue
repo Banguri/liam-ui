@@ -8,7 +8,7 @@
     </p>
     <h3>Test Git page</h3>
     <ul>
-      <li>output docs</li>
+      <li>output docs test2</li>
     </ul>
     <h3>Installed CLI Plugins</h3>
     <ul>
